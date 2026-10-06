@@ -38,6 +38,7 @@
     <h3>Guides:</h3>
     <ul>
       <li><a href="sailinsight/getting-started.md">Getting started with Sail Insight</a></li>
+      <li><a href="/wiki/howto/eventmanagers/smartphone-tracking.md">Setting up an event with smartphone tracking (for event hosts)</a></li>
       <li><a href="sailinsight/create-events.md">How-to: Create an event with Sail Insight</a></li>
       <li><a href="sailinsight/manage-marks.md">How-to: Managing marks in Sail Insight</a></li>
       <li><a href="sailinsight/boat-team-creation.md">Boat and team creation in Sail Insight</a></li>
@@ -129,6 +130,10 @@
     <tr>
       <td><a href="sailinganalytics/simple-event-creation.md">Create a simple event</a></td>
       <td>This tutorial shows you how to create an event with the SAP Analytics <em>Administration Console</em> on <a href="https://my.sapsailing.com/gwt/Home.html">my.sapsailing.com</a>.</td>
+    </tr>
+    <tr>
+      <td><a href="/wiki/howto/eventmanagers/smartphone-tracking.md">Set up Smartphone Tracking for your event</a></td>
+      <td>Step-by-step guide for event hosts: denote the races, register competitors, define the course, bring the sailors' phones in and start tracking in the <em>Administration Console</em>.</td>
     </tr>
     <tr>
       <td><a href="sailinganalytics/video-tracking-management.md">Add &amp; align Youtube videos</a></td>
